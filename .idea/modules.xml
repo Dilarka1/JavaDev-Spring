@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/jd-spring-main 3/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-04-BeanLifeCycle (6).iml" filepath="$PROJECT_DIR$/jd-spring-main 3/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-04-BeanLifeCycle (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Forms/Spring-08-SpringBoot-MVC-Forms.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Forms/Spring-08-SpringBoot-MVC-Forms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Model-View-Thymeleaf/Spring-08-SpringBoot-MVC-Model-View-Thymeleaf.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Model-View-Thymeleaf/Spring-08-SpringBoot-MVC-Model-View-Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-CinemaLab/Spring-09-ORM-CinemaLab.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-CinemaLab/Spring-09-ORM-CinemaLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-ManyToOne/Spring-09-ORM-ManyToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-ManyToOne/Spring-09-ORM-ManyToOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToMany/Spring-09-ORM-Mapping-ManyToMany.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToMany/Spring-09-ORM-Mapping-ManyToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" />

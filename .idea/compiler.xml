@@ -29,6 +29,7 @@
         <module name="Spring-02-DI-Setterinjection" />
         <module name="Spring-02-DI-ConstructorInjection" />
         <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" />
+        <module name="Spring-09-ORM-CinemaLab" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -49,6 +50,7 @@
       <module name="Spring-04-BeanLifeCycle (6)" target="1.8" />
       <module name="Spring-08-SpringBoot-MVC-Forms" target="11" />
       <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" target="11" />
+      <module name="Spring-09-ORM-CinemaLab" target="11" />
       <module name="Spring-09-ORM-ManyToOne" target="11" />
       <module name="Spring-09-ORM-Mapping-ManyToMany" target="11" />
       <module name="Spring-09-ORM-Mapping-OneToOne" target="11" />
@@ -61,6 +63,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-08-SpringBoot-MVC-Forms" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" options="-parameters" />
+      <module name="Spring-09-ORM-CinemaLab" options="-parameters" />
       <module name="Spring-09-ORM-ManyToOne" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-ManyToMany" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-OneToOne" options="-parameters" />
