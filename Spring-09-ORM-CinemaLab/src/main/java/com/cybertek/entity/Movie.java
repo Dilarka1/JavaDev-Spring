@@ -9,9 +9,9 @@ import lombok.Setter;
 import javax.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 @Entity
 @Getter
@@ -39,15 +39,14 @@ public class Movie extends BaseEntity {
 
     @ManyToMany
     @JoinTable(name = "movie_genre_rel",
-            joinColumns = @JoinColumn(name = "movie_id"),
+            joinColumns = @JoinColumn(name="movie_id"),
             inverseJoinColumns = @JoinColumn(name = "genre_id"))
     private List<Genre> genreList = new ArrayList<>();
 
-    public Movie(String name, LocalDate releaseDate, Integer duration, String summary, MovieType type, MovieState state, BigDecimal price) {
+    public Movie(String name, LocalDate releaseDate, Integer duration,MovieType type, MovieState state, BigDecimal price) {
         this.name = name;
         this.releaseDate = releaseDate;
         this.duration = duration;
-        this.summary = summary;
         this.type = type;
         this.state = state;
         this.price = price;
