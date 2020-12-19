@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-04-BeanLifeCycle (5)" />
+        <module name="Spring-09-ORM-TableCreation" />
+        <module name="Spring-04-BeanLifeCycle (6)" />
+        <module name="Spring-09-ORM-Mapping-ManyToMany" />
+        <module name="Spring-04-BeanLifeCycle (3)" />
+        <module name="cybertek" />
+        <module name="Spring-04-BeanLifeCycle (4)" />
+        <module name="Spring-09-ORM-OneToMany" />
+        <module name="cybertek (1)" />
+        <module name="cybertek (2)" />
+        <module name="Spring-04-BeanLifeCycle" />
+        <module name="Spring-01-SpringContainer" />
+        <module name="Spring-09-ORM-ManyToOne" />
+        <module name="cybertek (3)" />
+        <module name="Spring-03-BeanScope-Singleton-Prototype" />
+        <module name="Spring-09-ORM-Mapping-OneToOne" />
+        <module name="Spring-04-BeanLifeCycle (1)" />
+        <module name="Spring-04-BeanLifeCycle (2)" />
+        <module name="Spring-08-SpringBoot-MVC-Forms" />
+        <module name="Spring-02-DI-Setterinjection" />
+        <module name="Spring-02-DI-ConstructorInjection" />
+        <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cybertek" target="11" />
+      <module name="cybertek (1)" target="11" />
+      <module name="cybertek (2)" target="11" />
+      <module name="cybertek (3)" target="11" />
+      <module name="Spring-01-SpringContainer" target="1.8" />
+      <module name="Spring-02-DI-ConstructorInjection" target="1.8" />
+      <module name="Spring-02-DI-Setterinjection" target="1.8" />
+      <module name="Spring-03-BeanScope-Singleton-Prototype" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle (1)" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle (2)" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle (3)" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle (4)" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle (5)" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle (6)" target="1.8" />
+      <module name="Spring-08-SpringBoot-MVC-Forms" target="11" />
+      <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" target="11" />
+      <module name="Spring-09-ORM-ManyToOne" target="11" />
+      <module name="Spring-09-ORM-Mapping-ManyToMany" target="11" />
+      <module name="Spring-09-ORM-Mapping-OneToOne" target="11" />
+      <module name="Spring-09-ORM-OneToMany" target="11" />
+      <module name="Spring-09-ORM-TableCreation" target="11" />
+      <module name="Spring09-ORM_TableCreations" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-08-SpringBoot-MVC-Forms" options="-parameters" />
+      <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" options="-parameters" />
+      <module name="Spring-09-ORM-ManyToOne" options="-parameters" />
+      <module name="Spring-09-ORM-Mapping-ManyToMany" options="-parameters" />
+      <module name="Spring-09-ORM-Mapping-OneToOne" options="-parameters" />
+      <module name="Spring-09-ORM-OneToMany" options="-parameters" />
+      <module name="Spring-09-ORM-TableCreation" options="-parameters" />
+      <module name="Spring09-ORM_TableCreations" options="-parameters" />
+      <module name="cybertek" options="-parameters" />
+      <module name="cybertek (1)" options="-parameters" />
+      <module name="cybertek (2)" options="-parameters" />
+      <module name="cybertek (3)" options="-parameters" />
+    </option>
+  </component>
+</project>

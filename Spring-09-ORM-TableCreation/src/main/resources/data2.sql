@@ -1,0 +1,5 @@
+INSERT INTO students(first_name, last_name, email) VALUES ('Donald', 'Duck', 'donald@disney.com')
+INSERT INTO students(first_name, last_name, email) VALUES ('Mickey', 'Mouse', 'mickey@disney.com')
+INSERT INTO students(first_name, last_name, email) VALUES ('SpiderMan', 'Spider', 'spiderman@disney.com')
+INSERT INTO students(first_name, last_name, email) VALUES ('Darth', 'Vader', 'vader@disney.com')
+INSERT INTO students(first_name, last_name, email) VALUES ('Luke', 'Skywalker', 'skywalker@disney.com')
