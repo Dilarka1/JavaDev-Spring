@@ -11,25 +11,36 @@ import javax.annotation.PostConstruct;
 @SpringBootApplication
 public class DerivedqueryApplication {
 
-	@Autowired
-	RegionRepository regionRepository;
+    @Autowired
+    RegionRepository regionRepository;
 
-	public static void main(String[] args) {
-		SpringApplication.run(DerivedqueryApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(DerivedqueryApplication.class, args);
+    }
 
-	@PostConstruct
-	public void testRegions(){
+    @PostConstruct
+    public void testRegions() {
 
-		System.out.println("---------Regions start------------");
+        System.out.println("---------Regions start------------");
 
-		System.out.println("findByCountry: " + regionRepository.findByCountry("Canada"));
-		System.out.println("findDistinctByCountry: " + regionRepository.findDistinctByCountry("Canada"));
-		System.out.println("findDistinctByCountry: " + regionRepository.findByCountryContaining("United"));
+        System.out.println("findByCountry: " + regionRepository.findByCountry("Canada"));
+        System.out.println("findDistinctByCountry: " + regionRepository.findDistinctByCountry("Canada"));
+        System.out.println("findByCountryContaining: " + regionRepository.findByCountryContaining("United"));
+        System.out.println("findByCountryContainingOrderByCountry: " + regionRepository.findByCountryContainingOrderByCountry("Asia"));
+        System.out.println("findByCountryContainingOrderByCountry: " + regionRepository.findByCountryContainingOrderByCountry("Asia"));
+        System.out.println("findTopBy2ByCountry: " + regionRepository.findTop2ByCountry("Canada"));
 
 
-		System.out.println("---------Regions End------------");
+        System.out.println("---------Regions End------------");
 
-	}
+    }
 
+    @PostConstruct
+    public void testEmployee() {
+
+        System.out.println("---------Regions start------------");
+
+        System.out.println(g);
+        System.out.println("---------Regions End------------");
+    }
 }
