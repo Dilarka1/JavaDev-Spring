@@ -12,6 +12,7 @@
         <module name="Spring-04-BeanLifeCycle (6)" />
         <module name="Spring-09-ORM-Mapping-ManyToMany" />
         <module name="Spring-04-BeanLifeCycle (3)" />
+        <module name="Spring-09-ORM-DerivedQueries" />
         <module name="cybertek" />
         <module name="Spring-04-BeanLifeCycle (4)" />
         <module name="Spring-09-ORM-OneToMany" />
@@ -51,6 +52,7 @@
       <module name="Spring-08-SpringBoot-MVC-Forms" target="11" />
       <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" target="11" />
       <module name="Spring-09-ORM-CinemaLab" target="11" />
+      <module name="Spring-09-ORM-DerivedQueries" target="11" />
       <module name="Spring-09-ORM-ManyToOne" target="11" />
       <module name="Spring-09-ORM-Mapping-ManyToMany" target="11" />
       <module name="Spring-09-ORM-Mapping-OneToOne" target="11" />
@@ -64,6 +66,7 @@
       <module name="Spring-08-SpringBoot-MVC-Forms" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" options="-parameters" />
       <module name="Spring-09-ORM-CinemaLab" options="-parameters" />
+      <module name="Spring-09-ORM-DerivedQueries" options="-parameters" />
       <module name="Spring-09-ORM-ManyToOne" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-ManyToMany" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-OneToOne" options="-parameters" />

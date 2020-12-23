@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @Getter
 @Setter
 @NoArgsConstructor
-public class Ticket extends BaseEntity{
+public class Ticket extends BaseEntity {
 
     @Column(name = "seat_number")
     private Integer seatNumber;
