@@ -17,5 +17,11 @@ public class Region extends BaseEntity{
     private String region;
     private String country;
 
-
+    @Override
+    public String toString() {
+        return "Region{" +
+                "region='" + region + '\'' +
+                ", country='" + country + '\'' +
+                '}';
+    }
 }
