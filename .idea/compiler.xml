@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring-09-ORM-Mapping-JPQL-NamedQueries" />
         <module name="Spring-04-BeanLifeCycle (5)" />
         <module name="Spring-09-ORM-TableCreation" />
         <module name="Spring-04-BeanLifeCycle (3)" />
@@ -15,7 +16,6 @@
         <module name="Spring-04-BeanLifeCycle" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
-        <module name="Spring-09-ORM-Mapping-JPQL-NameQueries" />
         <module name="Spring-04-BeanLifeCycle (1)" />
         <module name="Spring-02-DI-ConstructorInjection" />
         <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" />
@@ -55,6 +55,7 @@
       <module name="Spring-09-ORM-CinemaLab" target="11" />
       <module name="Spring-09-ORM-DerivedQueries" target="11" />
       <module name="Spring-09-ORM-ManyToOne" target="11" />
+      <module name="Spring-09-ORM-Mapping-JPQL-NamedQueries" target="11" />
       <module name="Spring-09-ORM-Mapping-JPQL-NameQueries" target="11" />
       <module name="Spring-09-ORM-Mapping-ManyToMany" target="11" />
       <module name="Spring-09-ORM-Mapping-OneToOne" target="11" />
@@ -71,6 +72,7 @@
       <module name="Spring-09-ORM-DerivedQueries" options="-parameters" />
       <module name="Spring-09-ORM-ManyToOne" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-JPQL-NameQueries" options="-parameters" />
+      <module name="Spring-09-ORM-Mapping-JPQL-NamedQueries" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-ManyToMany" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-OneToOne" options="-parameters" />
       <module name="Spring-09-ORM-OneToMany" options="-parameters" />

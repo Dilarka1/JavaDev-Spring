@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>jpql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ORM</name>
+	<name>jpql</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

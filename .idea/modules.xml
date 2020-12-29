@@ -18,7 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-CinemaLab/Spring-09-ORM-CinemaLab.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-CinemaLab/Spring-09-ORM-CinemaLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-DerivedQueries/Spring-09-ORM-DerivedQueries.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-DerivedQueries/Spring-09-ORM-DerivedQueries.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-ManyToOne/Spring-09-ORM-ManyToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-ManyToOne/Spring-09-ORM-ManyToOne.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-JPQL-NameQueries/Spring-09-ORM-Mapping-JPQL-NameQueries.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-JPQL-NameQueries/Spring-09-ORM-Mapping-JPQL-NameQueries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-JPQL-NamedQueries/Spring-09-ORM-Mapping-JPQL-NamedQueries.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-JPQL-NamedQueries/Spring-09-ORM-Mapping-JPQL-NamedQueries.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToMany/Spring-09-ORM-Mapping-ManyToMany.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToMany/Spring-09-ORM-Mapping-ManyToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-OneToOne/Spring-09-ORM-Mapping-OneToOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" />
