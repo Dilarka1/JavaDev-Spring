@@ -3,16 +3,21 @@ package com.cybertek.entity;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import lombok.ToString;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
 @Getter
 @Setter
 @Table(name = "departments")
 @NoArgsConstructor
+@ToString
+@NamedQuery(name="Department.findOzzyDepartment",
+            query = "SELECT d FROM Department d WHERE d.division=?1")
+@NamedNativeQuery(name="Department.countAllDepartments",
+                query="SELECT * FROM departments",
+                resultClass = Department.class )
 public class Department {
 
     @Id
