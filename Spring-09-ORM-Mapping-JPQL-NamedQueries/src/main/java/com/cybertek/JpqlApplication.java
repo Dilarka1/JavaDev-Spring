@@ -19,12 +19,14 @@ public class JpqlApplication {
 	}
 
 	@PostConstruct
-	public void testEmployee(){
+	public void testEmployee() {
 
 		System.out.println(employeeRepository.getEmployeeDetail());
 		System.out.println("Salary: " + employeeRepository.getEmployeeSalary());
 		System.out.println(employeeRepository.getEmployeeByEmail("myakovlivf@ucsd.edu").get());
 
 		employeeRepository.updateEmployeeJPQL(1);
+
+		System.out.println(employeeRepository.retrieveEmployeeSalaryGreaterThan(10000));
 	}
 }
