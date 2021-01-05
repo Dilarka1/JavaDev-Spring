@@ -24,7 +24,7 @@ public class CinemaProjectApplication {
 
 		System.out.println("---------HomeWork start------------");
 
-		System.out.println(accountRepository.findAccountsByCountryOrState("Canada", "Ohio"));
+		System.out.println(accountRepository.findAccountsByCountryOrState("United States of America", "Ohio"));
 		System.out.println(accountRepository.orderWithAgeJPQL());
 		System.out.println(accountRepository.fetchAdminUsers());
 
