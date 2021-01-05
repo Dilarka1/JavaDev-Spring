@@ -37,6 +37,7 @@ public class CinemaProjectApplication {
 		System.out.println(cinemaRepository.distinctBySponsoredName());
 		System.out.println(cinemaRepository.findFirst3BySponsoredNameContainingOrderBySponsoredNameAsc("Kodak"));
 		System.out.println(movieCinemaRepository.countAllByCinemaId(7L));
+		System.out.println(movieCinemaRepository.retrieveAllByLocationName("AMC Empire 25"));
 
 		System.out.println("---------HomeWork End------------");
 
