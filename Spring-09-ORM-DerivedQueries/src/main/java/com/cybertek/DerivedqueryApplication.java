@@ -65,5 +65,4 @@ public class DerivedqueryApplication {
         System.out.println("---------Employee End------------");
 
     }
-
 }
