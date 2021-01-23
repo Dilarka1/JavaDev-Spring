@@ -33,6 +33,7 @@
         <module name="Spring-04-BeanLifeCycle (2)" />
         <module name="Spring-08-SpringBoot-MVC-Forms" />
         <module name="Spring-02-DI-Setterinjection" />
+        <module name="Spring-10-Security-CustomConfiguration" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -62,6 +63,7 @@
       <module name="Spring-09-ORM-Mapping-OneToOne" target="11" />
       <module name="Spring-09-ORM-OneToMany" target="11" />
       <module name="Spring-09-ORM-TableCreation" target="11" />
+      <module name="Spring-10-Security-CustomConfiguration" target="11" />
       <module name="Spring-10-Security-DefaultConfiguration" target="11" />
       <module name="Spring09-ORM_TableCreations" target="11" />
     </bytecodeTargetLevel>
@@ -79,6 +81,7 @@
       <module name="Spring-09-ORM-Mapping-OneToOne" options="-parameters" />
       <module name="Spring-09-ORM-OneToMany" options="-parameters" />
       <module name="Spring-09-ORM-TableCreation" options="-parameters" />
+      <module name="Spring-10-Security-CustomConfiguration" options="-parameters" />
       <module name="Spring-10-Security-DefaultConfiguration" options="-parameters" />
       <module name="Spring09-ORM_TableCreations" options="-parameters" />
       <module name="cybertek" options="-parameters" />
