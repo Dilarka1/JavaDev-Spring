@@ -26,6 +26,7 @@
         <module name="Spring-09-ORM-DerivedQueries" />
         <module name="Spring-04-BeanLifeCycle (4)" />
         <module name="Spring-09-ORM-OneToMany" />
+        <module name="Spring-10-Security-HttpBasic-AutRoleBase" />
         <module name="cybertek (2)" />
         <module name="Spring-09-ORM-ManyToOne" />
         <module name="cybertek (3)" />
@@ -65,6 +66,7 @@
       <module name="Spring-09-ORM-TableCreation" target="11" />
       <module name="Spring-10-Security-CustomConfiguration" target="11" />
       <module name="Spring-10-Security-DefaultConfiguration" target="11" />
+      <module name="Spring-10-Security-HttpBasic-AutRoleBase" target="11" />
       <module name="Spring09-ORM_TableCreations" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -83,6 +85,7 @@
       <module name="Spring-09-ORM-TableCreation" options="-parameters" />
       <module name="Spring-10-Security-CustomConfiguration" options="-parameters" />
       <module name="Spring-10-Security-DefaultConfiguration" options="-parameters" />
+      <module name="Spring-10-Security-HttpBasic-AutRoleBase" options="-parameters" />
       <module name="Spring09-ORM_TableCreations" options="-parameters" />
       <module name="cybertek" options="-parameters" />
       <module name="cybertek (1)" options="-parameters" />
