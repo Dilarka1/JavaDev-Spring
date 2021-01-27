@@ -24,6 +24,7 @@
         <module name="Spring-10-Security-DefaultConfiguration" />
         <module name="Spring-04-BeanLifeCycle (6)" />
         <module name="Spring-09-ORM-Mapping-ManyToMany" />
+        <module name="Spring-10-Security-FormAuth" />
         <module name="Spring-09-ORM-DerivedQueries" />
         <module name="Spring-04-BeanLifeCycle (4)" />
         <module name="Spring-09-ORM-OneToMany" />
@@ -67,6 +68,7 @@
       <module name="Spring-09-ORM-TableCreation" target="11" />
       <module name="Spring-10-Security-CustomConfiguration" target="11" />
       <module name="Spring-10-Security-DefaultConfiguration" target="11" />
+      <module name="Spring-10-Security-FormAuth" target="11" />
       <module name="Spring-10-Security-HttpBasic-AutRoleBase" target="11" />
       <module name="Spring-10-Security-HttpBasic_Database" target="11" />
       <module name="Spring09-ORM_TableCreations" target="11" />
@@ -87,6 +89,7 @@
       <module name="Spring-09-ORM-TableCreation" options="-parameters" />
       <module name="Spring-10-Security-CustomConfiguration" options="-parameters" />
       <module name="Spring-10-Security-DefaultConfiguration" options="-parameters" />
+      <module name="Spring-10-Security-FormAuth" options="-parameters" />
       <module name="Spring-10-Security-HttpBasic-AutRoleBase" options="-parameters" />
       <module name="Spring-10-Security-HttpBasic_Database" options="-parameters" />
       <module name="Spring09-ORM_TableCreations" options="-parameters" />
