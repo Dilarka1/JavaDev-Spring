@@ -27,6 +27,5 @@ public class DataGenerator implements CommandLineRunner {
         productRepository.save(laptop);
         productRepository.save(phone);
         productRepository.save(tablet);
-
     }
 }
