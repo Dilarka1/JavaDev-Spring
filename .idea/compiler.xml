@@ -12,6 +12,7 @@
         <module name="Spring-09-ORM-TableCreation" />
         <module name="Spring-04-BeanLifeCycle (3)" />
         <module name="cybertek" />
+        <module name="Spring-11-Rest-HttpVerbs-Legacy" />
         <module name="cybertek (1)" />
         <module name="Spring-04-BeanLifeCycle" />
         <module name="Spring-10-Security-HttpBasic_Database" />
@@ -71,6 +72,7 @@
       <module name="Spring-10-Security-FormAuth" target="11" />
       <module name="Spring-10-Security-HttpBasic-AutRoleBase" target="11" />
       <module name="Spring-10-Security-HttpBasic_Database" target="11" />
+      <module name="Spring-11-Rest-HttpVerbs-Legacy" target="11" />
       <module name="Spring09-ORM_TableCreations" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -92,6 +94,7 @@
       <module name="Spring-10-Security-FormAuth" options="-parameters" />
       <module name="Spring-10-Security-HttpBasic-AutRoleBase" options="-parameters" />
       <module name="Spring-10-Security-HttpBasic_Database" options="-parameters" />
+      <module name="Spring-11-Rest-HttpVerbs-Legacy" options="-parameters" />
       <module name="Spring09-ORM_TableCreations" options="-parameters" />
       <module name="cybertek" options="-parameters" />
       <module name="cybertek (1)" options="-parameters" />
