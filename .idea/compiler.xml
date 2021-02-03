@@ -19,6 +19,7 @@
         <module name="Spring-10-Security-HttpBasic_Database" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
+        <module name="Spring-11-Rest-Jackson" />
         <module name="Spring-04-BeanLifeCycle (1)" />
         <module name="Spring-02-DI-ConstructorInjection" />
         <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" />
@@ -76,6 +77,7 @@
       <module name="Spring-10-Security-HttpBasic_Database" target="11" />
       <module name="Spring-11-Rest-HttpVerbs-Legacy" target="11" />
       <module name="Spring-11-Rest-HttpVerbs-Preferred" target="11" />
+      <module name="Spring-11-Rest-Jackson" target="11" />
       <module name="Spring-11-Rest-ResponseEntity" target="11" />
       <module name="Spring09-ORM_TableCreations" target="11" />
     </bytecodeTargetLevel>
@@ -100,6 +102,7 @@
       <module name="Spring-10-Security-HttpBasic_Database" options="-parameters" />
       <module name="Spring-11-Rest-HttpVerbs-Legacy" options="-parameters" />
       <module name="Spring-11-Rest-HttpVerbs-Preferred" options="-parameters" />
+      <module name="Spring-11-Rest-Jackson" options="-parameters" />
       <module name="Spring-11-Rest-ResponseEntity" options="-parameters" />
       <module name="Spring09-ORM_TableCreations" options="-parameters" />
       <module name="cybertek" options="-parameters" />
