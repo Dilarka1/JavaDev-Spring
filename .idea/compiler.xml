@@ -24,6 +24,7 @@
         <module name="Spring-08-SpringBoot-MVC-Model-View-Thymeleaf" />
         <module name="Spring-09-ORM-CinemaLab" />
         <module name="Spring-10-Security-DefaultConfiguration" />
+        <module name="Spring-11-Rest-ResponseEntity" />
         <module name="Spring-04-BeanLifeCycle (6)" />
         <module name="Spring-09-ORM-Mapping-ManyToMany" />
         <module name="Spring-10-Security-FormAuth" />
@@ -75,6 +76,7 @@
       <module name="Spring-10-Security-HttpBasic_Database" target="11" />
       <module name="Spring-11-Rest-HttpVerbs-Legacy" target="11" />
       <module name="Spring-11-Rest-HttpVerbs-Preferred" target="11" />
+      <module name="Spring-11-Rest-ResponseEntity" target="11" />
       <module name="Spring09-ORM_TableCreations" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -98,6 +100,7 @@
       <module name="Spring-10-Security-HttpBasic_Database" options="-parameters" />
       <module name="Spring-11-Rest-HttpVerbs-Legacy" options="-parameters" />
       <module name="Spring-11-Rest-HttpVerbs-Preferred" options="-parameters" />
+      <module name="Spring-11-Rest-ResponseEntity" options="-parameters" />
       <module name="Spring09-ORM_TableCreations" options="-parameters" />
       <module name="cybertek" options="-parameters" />
       <module name="cybertek (1)" options="-parameters" />
