@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-HttpVerbs-Preferred/Spring-11-Rest-HttpVerbs-Preferred.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-HttpVerbs-Preferred/Spring-11-Rest-HttpVerbs-Preferred.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-Jackson/Spring-11-Rest-Jackson.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-Jackson/Spring-11-Rest-Jackson.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-ResponseEntity/Spring-11-Rest-ResponseEntity.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-ResponseEntity/Spring-11-Rest-ResponseEntity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-RestTemplate/Spring-11-Rest-RestTemplate.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-RestTemplate/Spring-11-Rest-RestTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/jd-spring-main 3/Spring-07-SpringBoot-Demo/cybertek.iml" filepath="$PROJECT_DIR$/jd-spring-main 3/Spring-07-SpringBoot-Demo/cybertek.iml" />
       <module fileurl="file://$PROJECT_DIR$/jd-spring-main 3/Spring-07-SpringBoot-Ioc-DI-Lab/cybertek (1).iml" filepath="$PROJECT_DIR$/jd-spring-main 3/Spring-07-SpringBoot-Ioc-DI-Lab/cybertek (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/jd-spring-main 3/Spring-08-SpringBoot-MVC-Controller/cybertek (2).iml" filepath="$PROJECT_DIR$/jd-spring-main 3/Spring-08-SpringBoot-MVC-Controller/cybertek (2).iml" />
