@@ -24,7 +24,7 @@ public class User extends BaseEntity {
 
     private String username;
 
-    @OneToOne(fetch = FetchType.LAZY, cascade = {CascadeType.MERGE, CascadeType.PERSIST})
+    @OneToOne(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
     @JoinColumn(name = "account_details_id")
     @JsonManagedReference
     private Account account;

@@ -2,6 +2,7 @@ package com.cybertek.entity;
 
 import com.cybertek.enums.UserRole;
 import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -16,7 +17,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @Table(name = "account_details")
 @ToString
-@JsonIgnoreProperties(value = {"state", "postalCode"}, ignoreUnknown = true)
+@JsonIgnoreProperties(value = {"state","postalCode"},ignoreUnknown = true)
 public class Account extends BaseEntity {
 
     private String name;
