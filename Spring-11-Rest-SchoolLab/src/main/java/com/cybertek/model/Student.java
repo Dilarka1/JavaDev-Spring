@@ -15,10 +15,10 @@ import java.time.LocalDate;
 @Table(name = "student")
 @Getter
 @Setter
-@NoArgsConstructor
 @AllArgsConstructor
-@JsonIgnoreProperties(value = {"hibernateLazyInitializer", "teacher"}, ignoreUnknown = true)
-public class Student extends BaseEntity{
+@NoArgsConstructor
+@JsonIgnoreProperties(value = {"hibernateLazyInitializer"}, ignoreUnknown = true)
+public class Student extends BaseEntity {
 
     private String firstName;
     private String lastName;
@@ -42,5 +42,4 @@ public class Student extends BaseEntity{
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "parent_id")
     private Parent parent;
-
 }
